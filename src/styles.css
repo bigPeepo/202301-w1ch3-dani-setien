@@ -1,0 +1,21 @@
+@import url("/node_modules/@fortawesome/fontawesome-free/css/all.min.css");
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-color: #279989;
+  color: white;
+}
+
+.summary {
+  background-color: #44a080;
+  color: white;
+}
+
+.detailed,
+.total {
+  background-color: #ffc845;
+}
