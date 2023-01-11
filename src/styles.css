@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-color: #279989;
+  color: white;
+}
+
+.summary {
+  background-color: #44a080;
+  color: white;
+}
+
+.detailed,
+.total {
+  background-color: #ffc845;
+}
